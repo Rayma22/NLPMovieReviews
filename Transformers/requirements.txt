@@ -1,0 +1,7 @@
+torch>=1.8.0
+transformers[torch]>=4.12.5
+accelerate>=0.21.0
+numpy
+pandas
+scikit-learn
+datasets>=1.11.0
